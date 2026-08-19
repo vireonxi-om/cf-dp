@@ -82,3 +82,5 @@ Solutions by [rheallyc](https://codeforces.com/profile/rheallyc) (Codeforces Mas
 | [Maximum And Queries (hard version)](https://codeforces.com/problemset/problem/1903/D2) | 2500 | bitmasks, divide and conquer, dp, greedy | C++17 (GCC 7-32) |
 | [The Three Little Pigs](https://codeforces.com/problemset/problem/1548/C) | 2500 | combinatorics, dp, fft, math | C++17 (GCC 7-32) |
 | [Polygon](https://codeforces.com/problemset/problem/1572/E) | 3000 | binary search, dp, geometry | C++17 (GCC 7-32) |
+
+<!-- maintenance note: Minor README polish pass. (2026-08-19) -->
