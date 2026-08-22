@@ -65,4 +65,4 @@ int main() {
 	}
 	cout << dp[n + 1][n][0] << "\n";
 	return 0;
-}
+}// maintenance note (2): add editorial link comment to this file — 2026-08-22
