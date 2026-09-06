@@ -31,3 +31,4 @@ int main(){
     return 0;
 }
 // maintenance note (6): add editorial link comment to this file — 2026-09-01
+// maintenance note (8): minor readability pass on this file — 2026-09-06
