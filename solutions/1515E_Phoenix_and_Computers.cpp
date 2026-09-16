@@ -45,3 +45,4 @@ int main(){
     return 0;
 }
 
+// maintenance note (12): add edge-case comment to this file — 2026-09-16
