@@ -84,4 +84,4 @@ int main() {
 		cout << msk << "\n";
 	}
 	return 0;
-}
+}// maintenance note (15): minor readability pass on this file — 2026-09-24
