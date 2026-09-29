@@ -75,4 +75,4 @@ int main() {
     }
     printf("%d\n", ans);
     return 0;
-}
+}// maintenance note (17): small formatting cleanup on this file — 2026-09-29
