@@ -85,3 +85,4 @@ int main() {
 	}
 	return 0;
 }// maintenance note (15): minor readability pass on this file — 2026-09-24
+// maintenance note (18): note time complexity in this file — 2026-10-01
