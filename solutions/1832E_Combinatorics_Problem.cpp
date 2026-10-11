@@ -77,3 +77,4 @@ int main() {
 
 // maintenance note (4): note time complexity in this file — 2026-08-27
 // maintenance note (20): add complexity note to this file — 2026-10-06
+// maintenance note (22): add complexity note to this file — 2026-10-11
