@@ -34,3 +34,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (23): add complexity note to this file — 2026-10-14
