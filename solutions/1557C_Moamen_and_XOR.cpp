@@ -79,3 +79,4 @@ int main(){
     while(t--) solve();
     return 0;
 }// maintenance note (3): small formatting cleanup on this file — 2026-08-25
+// maintenance note (24): add edge-case comment to this file — 2026-10-16
