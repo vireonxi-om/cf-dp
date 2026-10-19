@@ -70,3 +70,4 @@ int main(){
     printf("%lld\n", ans);
     return 0;
 }
+// maintenance note (25): note time complexity in this file — 2026-10-19
